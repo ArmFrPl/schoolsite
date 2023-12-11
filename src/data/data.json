@@ -1,10 +1,11 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "КОНСУЛЬТИРОВАНИЕ ПО ПОСТУПЛЕНИЮ В ЕВРОПУ И США",
+    "paragraph": "Мечтаете учиться в Европе или США? Не знаете с чего начать? Думаете как это сделать? Не знаете к кому обратиться за помощью?",
+    "paragraph1": "Отдел консультирования Cambridge High School поможет быстро разобраться в этом вопросе. Мы подберем 5 вариантов университетов под ваш запрос и расскажем про получение учебной визы и другие правовые аспекты возникающие при поступлении заграницу."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Cambridge High School (ссылка на главный сайт) — старшая онлайн школа для русскоязычных учащихся в городе Кембридж, штат Массачусетс, США.\nУже несколько лет мы помогаем нашим выпускникам поступать в различные колледжи и университеты мира. Поэтому у нас широкая сеть партнерств с различными университетами мира. На данный момент наши выпускники учатся на 3 континентах в 11 странах. Профориентологи и консультанты по поступлению Cambridge High School успешно помогают многим молодым людям определиться с будущей профессией и выбором подходящего университета.\n",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -67,68 +68,24 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa-solid fa-right-long fa-beat",
+      "name": "ШАГ 1",
+      "text": "Анкетирование и часовая консультационная встреча со специалистом Cambridge High School, на которой мы зададим вам уточняющие вопросы, чтобы максимально ясно понимать вашу ситуацию, запрос и пожелания."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa-solid fa-right-long fa-beat",
+      "name": "ШАГ 2",
+      "text": "Проведение анализа полученной информации, составление отчета о проделанной работе и итоговый документ с рекомендациями наших специалистов по вашей ситуации.\nВ документе будет продолжено 5 университетов по вашему запросу и критериям, условия по получению виз, список необходимых документов, экзаменов и сроки подачи заявки."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa-solid fa-right-long fa-beat",
+      "name": "ШАГ 3",
+      "text": "Итоговая консультация, на которой мы объясним и подробно расскажем про подобранные университеты, процедуру зачисления, получение визы и ответим на интересующие вопросы.\n"
     }
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+  "Testimonials": {
+    "paragraph" : "Для того, чтобы мы могли назначить вам время встречи и как можно лучше к ней подготовиться, ответьте на несколько вопросов в нашем боте. По окончании опроса, вы получите предварительный результат. Отправь те нам запрошенные регистрационные данные и мы с вами свяжемся.\n"
+  },
   "Team": [
     {
       "img": "img/team/01.jpg",
